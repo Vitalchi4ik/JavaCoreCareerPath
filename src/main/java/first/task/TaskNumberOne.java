@@ -27,7 +27,7 @@ public class TaskNumberOne {
     }
 
     public static void main(String[] args) {
-        System.out.println("Long eqution is " + longEquation(TaskNumberOne.x, TaskNumberOne.y, TaskNumberOne.z, TaskNumberOne.n) + "L");
+        System.out.println("Long equation is " + longEquation(TaskNumberOne.x, TaskNumberOne.y, TaskNumberOne.z, TaskNumberOne.n) + "L");
         System.out.println("Int equation is " + intEquation(TaskNumberOne.x, TaskNumberOne.y, TaskNumberOne.z, TaskNumberOne.n));
         System.out.println("Float equation is " + floatEquation(TaskNumberOne.x, TaskNumberOne.y, TaskNumberOne.z, TaskNumberOne.n) + "f");
         System.out.println("Double equation is " + doubleEquation(TaskNumberOne.x, TaskNumberOne.y, TaskNumberOne.z, TaskNumberOne.n));
