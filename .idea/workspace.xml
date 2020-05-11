@@ -19,10 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3634575-b921-4375-a734-a57eff1dbcf0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/JavaCoreCareerPath.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/first/task/TaskNumberOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/first/task/TaskNumberOne.java" afterDir="false" />
+    <list default="true" id="d3634575-b921-4375-a734-a57eff1dbcf0" name="Default Changelist" comment="Refactoring some code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fourth/task/TaskNumberFour.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fourth/task/TaskNumberFour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/execute/here/MainMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/execute/here/MainMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/fourth/task/TaskNumberFour.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/fourth/task/TaskNumberFour.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,6 +109,21 @@
       <option name="presentableId" value="Default" />
       <updated>1589216572461</updated>
     </task>
+    <task id="LOCAL-00001" summary="Create 4 task&#10;Refactoring some code">
+      <created>1589223392575</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589223392575</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Refactoring some code">
+      <created>1589223430369</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589223430369</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,26 +137,35 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create 4 task&#10;Refactoring some code" />
+    <MESSAGE value="Refactoring some code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring some code" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="139" key="GridCell.Tab.0.bottom" timestamp="1589222741104">
+    <state width="1323" height="114" key="GridCell.Tab.0.bottom" timestamp="1589223732160">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="139" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589222741104" />
-    <state width="1323" height="139" key="GridCell.Tab.0.center" timestamp="1589222741103">
+    <state width="1323" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589223732160" />
+    <state width="1323" height="114" key="GridCell.Tab.0.center" timestamp="1589223732160">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="139" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589222741103" />
-    <state width="1323" height="139" key="GridCell.Tab.0.left" timestamp="1589222741103">
+    <state width="1323" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589223732160" />
+    <state width="1323" height="114" key="GridCell.Tab.0.left" timestamp="1589223732160">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="139" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589222741103" />
-    <state width="1323" height="139" key="GridCell.Tab.0.right" timestamp="1589222741103">
+    <state width="1323" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589223732160" />
+    <state width="1323" height="114" key="GridCell.Tab.0.right" timestamp="1589223732160">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="139" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589222741103" />
+    <state width="1323" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589223732160" />
     <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1589218093692">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1589218093692" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1589223526809">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589223526809" />
   </component>
 </project>

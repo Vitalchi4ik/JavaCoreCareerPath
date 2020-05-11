@@ -13,19 +13,15 @@ public class TaskNumberFour {
     static int lengthOfText2 = text2.length();
 
     public static void printCourseText(){
-        int count = (lengthOfStars-lengthOfText1)/2;
-        while(count!=0){
+        for (int i = (lengthOfStars-lengthOfText1)/2; i != 0 ; i--) {
             System.out.print(space);
-            count--;
         }
         System.out.println(text1);
     }
 
     public static void printStudentText(){
-        int count = (lengthOfStars-lengthOfText2)/2;
-        while(count!=0){
+        for (int i = (lengthOfStars-lengthOfText2)/2; i != 0; i--) {
             System.out.print(space);
-            count--;
         }
         System.out.println(text2);
     }
@@ -35,9 +31,8 @@ public class TaskNumberFour {
         int lengthOfText3 = text3.length();
         int count = (lengthOfStars-lengthOfText3)/2;
         if((lengthOfStars-lengthOfText3)>0){
-            while (count != 0) {
+            for (int i = (lengthOfStars-lengthOfText3)/2; i != 0; i--) {
                 System.out.print(space);
-                count--;
             }
         }
         System.out.println(text3);
