@@ -19,8 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3634575-b921-4375-a734-a57eff1dbcf0" name="Default Changelist" comment="Refactoring some code">
+    <list default="true" id="d3634575-b921-4375-a734-a57eff1dbcf0" name="Default Changelist" comment="Refactoring While -&gt; For">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/execute/here/MainMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/execute/here/MainMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,20 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.TaskNumberFive">
-    <configuration name="TaskNumberFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fifth.task.TaskNumberFive" />
-      <module name="JavaCoreCareerPath" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="fifth.task.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TaskNumberFour">
     <configuration name="TaskNumberFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fourth.task.TaskNumberFour" />
       <module name="JavaCoreCareerPath" />
@@ -102,7 +90,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TaskNumberFive" />
         <item itemvalue="Application.TaskNumberFour" />
         <item itemvalue="Application.TaskNumberThree" />
         <item itemvalue="Application.TaskNumberOne" />
@@ -147,7 +134,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create 4 task&#10;Refactoring some code" />
@@ -155,26 +141,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="Refactoring some code" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom" timestamp="1589227703869">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="114" key="GridCell.Tab.0.bottom" timestamp="1589223732160">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="114" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589223732160" />
-    <state width="1876" height="277" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1280.0.1280.1024@0.0.1920.1040" timestamp="1589227703869" />
-    <state width="1876" height="277" key="GridCell.Tab.0.center" timestamp="1589227703869">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="114" key="GridCell.Tab.0.center" timestamp="1589223732160">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="114" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589223732160" />
-    <state width="1876" height="277" key="GridCell.Tab.0.center/0.0.1920.1040/-1280.0.1280.1024@0.0.1920.1040" timestamp="1589227703869" />
-    <state width="1876" height="277" key="GridCell.Tab.0.left" timestamp="1589227703869">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="114" key="GridCell.Tab.0.left" timestamp="1589223732160">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="114" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589223732160" />
-    <state width="1876" height="277" key="GridCell.Tab.0.left/0.0.1920.1040/-1280.0.1280.1024@0.0.1920.1040" timestamp="1589227703869" />
-    <state width="1876" height="277" key="GridCell.Tab.0.right" timestamp="1589227703869">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="114" key="GridCell.Tab.0.right" timestamp="1589223732160">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="114" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589223732160" />
-    <state width="1876" height="277" key="GridCell.Tab.0.right/0.0.1920.1040/-1280.0.1280.1024@0.0.1920.1040" timestamp="1589227703869" />
     <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1589218093692">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

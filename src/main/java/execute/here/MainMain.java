@@ -4,6 +4,7 @@ import fifth.task.TaskNumberFive;
 import first.task.TaskNumberOne;
 import fourth.task.TaskNumberFour;
 import second.task.TaskNumberTwo;
+import sixth.task.TaskNumberSix;
 import thrid.task.TaskNumberThree;
 
 public class MainMain {
@@ -17,7 +18,9 @@ public class MainMain {
         TaskNumberThree.main(args);
         System.out.println("Task №4:");
         TaskNumberFour.main(args);
-        System.out.println("Task №5Ж");
+        System.out.println("Task №5:");
         TaskNumberFive.main(args);
+        System.out.println("Task №6:");
+        TaskNumberSix.main(args);
     }
 }
