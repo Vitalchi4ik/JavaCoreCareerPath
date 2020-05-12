@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3634575-b921-4375-a734-a57eff1dbcf0" name="Default Changelist" comment="Create task number 6">
+    <list default="true" id="d3634575-b921-4375-a734-a57eff1dbcf0" name="Default Changelist" comment="Create task number 7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/execute/here/MainMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/execute/here/MainMain.class" afterDir="false" />
     </list>
@@ -48,13 +48,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.TaskNumberSeven">
-    <configuration name="TaskNumberFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fourth.task.TaskNumberFour" />
+  <component name="RunManager" selected="Application.MainMain">
+    <configuration name="MainMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="execute.here.MainMain" />
       <module name="JavaCoreCareerPath" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="fourth.task.*" />
+          <option name="PATTERN" value="execute.here.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskNumberOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first.task.TaskNumberOne" />
+    <configuration name="TaskNumberFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fourth.task.TaskNumberFour" />
       <module name="JavaCoreCareerPath" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first.task.*" />
+          <option name="PATTERN" value="fourth.task.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainMain" />
         <item itemvalue="Application.TaskNumberSeven" />
         <item itemvalue="Application.TaskNumberSix" />
         <item itemvalue="Application.TaskNumberFour" />
         <item itemvalue="Application.TaskNumberThree" />
-        <item itemvalue="Application.TaskNumberOne" />
       </list>
     </recent_temporary>
   </component>
@@ -156,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1589307766648</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Create task number 7">
+      <created>1589309542352</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589309542352</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,32 +182,33 @@
     <MESSAGE value="Create 4 task&#10;Refactoring some code" />
     <MESSAGE value="Refactoring some code" />
     <MESSAGE value="Create task number 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create task number 6" />
+    <MESSAGE value="Create task number 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create task number 7" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="164" key="GridCell.Tab.0.bottom" timestamp="1589309173377">
+    <state width="1323" height="164" key="GridCell.Tab.0.bottom" timestamp="1589309653019">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589309173377" />
-    <state width="1323" height="164" key="GridCell.Tab.0.center" timestamp="1589309173373">
+    <state width="1323" height="164" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589309653019" />
+    <state width="1323" height="164" key="GridCell.Tab.0.center" timestamp="1589309653019">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589309173373" />
-    <state width="1323" height="164" key="GridCell.Tab.0.left" timestamp="1589309173373">
+    <state width="1323" height="164" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589309653019" />
+    <state width="1323" height="164" key="GridCell.Tab.0.left" timestamp="1589309653019">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589309173373" />
-    <state width="1323" height="164" key="GridCell.Tab.0.right" timestamp="1589309173373">
+    <state width="1323" height="164" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589309653019" />
+    <state width="1323" height="164" key="GridCell.Tab.0.right" timestamp="1589309653019">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589309173373" />
+    <state width="1323" height="164" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589309653019" />
     <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1589218093692">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1589218093692" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1589307787993">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1589309561923">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589307787993" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589309561923" />
   </component>
 </project>
