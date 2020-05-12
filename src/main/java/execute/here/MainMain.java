@@ -1,9 +1,9 @@
 package execute.here;
-
 import fifth.task.TaskNumberFive;
 import first.task.TaskNumberOne;
 import fourth.task.TaskNumberFour;
 import second.task.TaskNumberTwo;
+import seventh.task.TaskNumberSeven;
 import sixth.task.TaskNumberSix;
 import thrid.task.TaskNumberThree;
 
@@ -22,5 +22,7 @@ public class MainMain {
         TaskNumberFive.main(args);
         System.out.println("Task №6:");
         TaskNumberSix.main(args);
+        System.out.println("Task №7:");
+        TaskNumberSeven.main(args);
     }
 }
