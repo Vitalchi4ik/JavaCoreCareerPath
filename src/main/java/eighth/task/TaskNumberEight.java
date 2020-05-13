@@ -1,5 +1,7 @@
 package eighth.task;
 
+import java.util.Scanner;
+
 public class TaskNumberEight {
     public static void main(String[] args) {
         String normal = "abcdefghijklmnopqrstuvwxyz_,;.?!/\\'";
@@ -11,7 +13,10 @@ public class TaskNumberEight {
         normal += "0123456789";
         split  += "0ƖᄅƐㄣϛ9ㄥ86";
 
-        String str = "The program should split the string by words, turn each word \"upside-down\", make a new string and print it to the console";
+        Scanner in = new Scanner(System.in);
+        System.out.println("Please enter the string:");
+        String str = in.nextLine();
+
         String newstr = "";
         char letter;
         for (int i=0; i< str.length(); i++) {
