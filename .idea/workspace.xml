@@ -19,11 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3634575-b921-4375-a734-a57eff1dbcf0" name="Default Changelist" comment="Refactor 8 task">
+    <list default="true" id="d3634575-b921-4375-a734-a57eff1dbcf0" name="Default Changelist" comment="Create 9 task, refactor some code">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/execute/here/MainMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/execute/here/MainMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/execute/here/MainMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/execute/here/MainMain.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +38,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1blpXJroPMfTS8ahAX2jQOTJnAg" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -49,6 +54,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RunManager" selected="Application.TaskNumberNine">
     <configuration name="MainMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -127,7 +133,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\Vetal4ik\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -200,7 +206,21 @@
       <option name="project" value="LOCAL" />
       <updated>1589373299481</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Created 9 task, refactored some code">
+      <created>1589381673146</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1589381673146</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Create 9 task, refactor some code">
+      <created>1589381864603</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1589381864603</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,7 +244,9 @@
     <MESSAGE value="Create 8 task" />
     <MESSAGE value="some changes" />
     <MESSAGE value="Refactor 8 task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor 8 task" />
+    <MESSAGE value="Created 9 task, refactored some code" />
+    <MESSAGE value="Create 9 task, refactor some code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create 9 task, refactor some code" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1323" height="156" key="GridCell.Tab.0.bottom" timestamp="1589381412911">
@@ -247,9 +269,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1589218093692" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1589373313065">
+    <state x="184" y="9" key="SettingsEditor" timestamp="1589382662865">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589373313065" />
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1589382662865" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1589381885329">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1589381885329" />
   </component>
 </project>
