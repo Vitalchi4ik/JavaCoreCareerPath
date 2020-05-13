@@ -3,6 +3,7 @@ import eighth.task.TaskNumberEight;
 import fifth.task.TaskNumberFive;
 import first.task.TaskNumberOne;
 import fourth.task.TaskNumberFour;
+import ninth.task.TaskNumberNine;
 import second.task.TaskNumberTwo;
 import seventh.task.TaskNumberSeven;
 import sixth.task.TaskNumberSix;
@@ -33,6 +34,9 @@ public class MainMain {
         System.out.println();
         System.out.println("Task №8:");
         TaskNumberEight.main(args);
+        System.out.println();
+        System.out.println("Task №9:");
+        TaskNumberNine.main(args);
         System.out.println();
     }
 }
