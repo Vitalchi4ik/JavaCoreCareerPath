@@ -7,6 +7,7 @@ import ninth.task.TaskNumberNine;
 import second.task.TaskNumberTwo;
 import seventh.task.TaskNumberSeven;
 import sixth.task.TaskNumberSix;
+import tenth.task.TaskNumberTen;
 import thrid.task.TaskNumberThree;
 
 public class MainMain {
@@ -37,6 +38,9 @@ public class MainMain {
         System.out.println();
         System.out.println("Task №9:");
         TaskNumberNine.main(args);
+        System.out.println();
+        System.out.println("Task №10");
+        TaskNumberTen.main(args);
         System.out.println();
     }
 }
