@@ -1,5 +1,6 @@
 package execute.here;
 import eighth.task.TaskNumberEight;
+import eleventh.task.TaskNumberEleven;
 import fifth.task.TaskNumberFive;
 import first.task.TaskNumberOne;
 import fourth.task.TaskNumberFour;
@@ -39,8 +40,11 @@ public class MainMain {
         System.out.println("Task №9:");
         TaskNumberNine.main(args);
         System.out.println();
-        System.out.println("Task №10");
+        System.out.println("Task №10:");
         TaskNumberTen.main(args);
+        System.out.println();
+        System.out.println("Task №11:");
+        TaskNumberEleven.main(args);
         System.out.println();
     }
 }
