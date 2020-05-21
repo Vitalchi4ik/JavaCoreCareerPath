@@ -9,7 +9,9 @@ import second.task.TaskNumberTwo;
 import seventh.task.TaskNumberSeven;
 import sixth.task.TaskNumberSix;
 import tenth.task.TaskNumberTen;
+import thirteenth.TaskNumberThirteen;
 import thrid.task.TaskNumberThree;
+import twelvth.task.TaskNumberTwelve;
 
 public class MainMain {
     public static void main(String[] args) {
@@ -46,5 +48,12 @@ public class MainMain {
         System.out.println("Task №11:");
         TaskNumberEleven.main(args);
         System.out.println();
+        System.out.println("Task №12:");
+        TaskNumberTwelve.main(args);
+        System.out.println();
+        System.out.println("Task №13:");
+        TaskNumberThirteen.main(args);
+        System.out.println();
+
     }
 }
