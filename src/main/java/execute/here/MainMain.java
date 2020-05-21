@@ -3,6 +3,7 @@ import eighth.task.TaskNumberEight;
 import eleventh.task.TaskNumberEleven;
 import fifth.task.TaskNumberFive;
 import first.task.TaskNumberOne;
+import fourteenth.task.TaskNumberFourteenth;
 import fourth.task.TaskNumberFour;
 import ninth.task.TaskNumberNine;
 import second.task.TaskNumberTwo;
@@ -14,7 +15,7 @@ import thrid.task.TaskNumberThree;
 import twelvth.task.TaskNumberTwelve;
 
 public class MainMain {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Exception {
         System.out.println("Task №1:");
         TaskNumberOne.main(args);
         System.out.println();
@@ -53,6 +54,9 @@ public class MainMain {
         System.out.println();
         System.out.println("Task №13:");
         TaskNumberThirteen.main(args);
+        System.out.println();
+        System.out.println("Task №14:");
+        TaskNumberFourteenth.main(args);
         System.out.println();
 
     }
