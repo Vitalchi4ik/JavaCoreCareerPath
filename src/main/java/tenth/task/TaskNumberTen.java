@@ -1,3 +1,15 @@
+/**
+ * Task 10
+ * The program prompts name, surname, mobile phone number, email from the user and performs validation of the parameters using regular expressions.
+ *
+ * Name, Surname - only English letters, - and space.
+ *
+ * Phone - country code (UA|RO) and 7 any digits
+ *
+ * email - English letters, numeric, -, underscore, @.
+ *
+ * Print invalid data to the console.
+ * */
 package tenth.task;
 
 import java.util.Scanner;

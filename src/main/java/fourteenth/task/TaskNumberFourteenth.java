@@ -1,3 +1,7 @@
+/**
+ * Task 14
+ * Extend Calculator from task 13 by adding exception handling for mathematical operations or incorrect input.
+ * */
 package fourteenth.task;
 
 import thirteenth.TaskNumberThirteen;

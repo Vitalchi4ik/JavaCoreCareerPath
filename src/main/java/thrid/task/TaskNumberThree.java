@@ -1,3 +1,14 @@
+/***
+ *Task 3
+ * Create a program, which for three coordinates of the vector calculates unit vector and prints result to the console.
+ *
+ * For calculating the unit vector, you should calculate the length of source vector and divide each of the coordinates on that length.
+ *
+ * The formulate for source vector length: Math.sqrt(X X + Y Y + Z * Z)
+ *
+ * E.g. unit vectors for the (5,0,0) => (1,0,0)
+ */
+
 package thrid.task;
 import java.util.Arrays;
 

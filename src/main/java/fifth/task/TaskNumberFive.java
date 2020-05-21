@@ -1,3 +1,9 @@
+/***
+ * Task 5
+ * Create a program that gets the number of type long as a parameter and calculates the lowest and biggest digit in its number. Print results in a console.
+ *
+ * E.g. for 15875 => lowest is 1, biggest is 8
+ */
 package fifth.task;
 
 public class TaskNumberFive {

@@ -1,3 +1,8 @@
+/**
+ * Task 15
+ * Create a program, that gets a path to a text file as a parameter, reads it, split to words, counts each word occurrence and prints it to the console, sorted ascending by words.
+ * */
+
 package fifrteenth.task;
 import java.util.*;
 import java.nio.charset.StandardCharsets;
@@ -22,7 +27,7 @@ public class TaskNumberFifteen {
         List<String> lines = Collections.emptyList();
         try
         {
-            lines =Files.readAllLines(Paths.get(fileName), StandardCharsets.UTF_8);
+            lines = Files.readAllLines(Paths.get(fileName), StandardCharsets.UTF_8);
 
         }
 

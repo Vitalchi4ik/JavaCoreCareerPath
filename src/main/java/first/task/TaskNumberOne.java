@@ -1,3 +1,12 @@
+/**
+ * Task 1
+ * Create a program, which solves the following equations. Variables x,y,z,n should be initialized before the equation. Each solution should be placed in a separate static method.
+ *
+ * x - (y + 123) / z * n => cast result as long
+ * (x + (50 - y * z) / n) - x => cast result as int
+ * x / (y * (z - 1) - 564) + n => cast result as float
+ * -x / -y + z / (n + 15) => cast result as double
+ * */
 package first.task;
 
 public class TaskNumberOne {

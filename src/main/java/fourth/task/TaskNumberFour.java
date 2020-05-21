@@ -1,3 +1,19 @@
+/**
+ * Task 4
+ * Create a program, where you set Name, Surname as input parameters and print it in the following way:
+ *
+ * ********************************
+ *
+ * Course: Java core
+ *
+ * Student
+ *
+ * Name Surname
+ *
+ * ********************************
+ *
+ * Use the operator "for" for it. The program should determine the length of the frame according to the length of the longest input parameter.
+ * */
 package fourth.task;
 import java.util.Scanner;
 

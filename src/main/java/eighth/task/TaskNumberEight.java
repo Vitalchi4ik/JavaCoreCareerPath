@@ -1,3 +1,9 @@
+/**
+ * Task 8
+ * The user enters the string. The program should split the string by words, turn each word "upside-down", make a new string and print it to the console.
+ *
+ * String[] words = “Sadfsdfs sdfsdf sdfsdf”.split(“ ”);
+ * */
 package eighth.task;
 
 import java.util.Scanner;

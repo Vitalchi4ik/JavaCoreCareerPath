@@ -1,5 +1,18 @@
-package thirteenth;
+/**
+ * Task 13
+ * Implement a command-line version of the Calculator with the following operations.
+ *
+ * add (X + Y)
+ * subtract (X - Y)
+ * multiplication (X * Y)
+ * division (X / Y)
+ * pow (X ^ Y)
+ * log (X log Y)
+ * sqrt (X sqrt Y)
+ * The user prompts a given command with operands, like X + Y
+ * */
 
+package thirteenth;
 
 import java.io.BufferedReader;
 import java.io.IOException;

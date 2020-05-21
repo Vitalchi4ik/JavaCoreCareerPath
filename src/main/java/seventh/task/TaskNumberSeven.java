@@ -1,3 +1,7 @@
+/**
+ * Task 7
+ * The user provides the sequence of symbols as a parameter to the program. Calculate if this sequence is a palindrome. Print YES or NO as an answer for the calculations.
+ * */
 package seventh.task;
 import java.util.Scanner;
 
